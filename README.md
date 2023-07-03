@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Front-end Developer</p>
+
 
 ###
 
