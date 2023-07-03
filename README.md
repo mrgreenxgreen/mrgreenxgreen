@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">Currently learning skills:</h3>
+<h3 align="left">Currently learning:</h3>
 
 ###
 
