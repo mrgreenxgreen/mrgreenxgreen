@@ -91,4 +91,5 @@
 
 ###
 
-<p> Below are some of my projects:</p>
+<p> Below are some of my <a href="http://www.davedalimocon.com" >projects</a>:</p>
+
