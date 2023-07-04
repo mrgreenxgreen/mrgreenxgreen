@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">Feel free to contact me :</p>
+<p align="left">Don't hesitate to contact me :</p>
 
 ###
 
@@ -91,5 +91,5 @@
 
 ###
 
-<p> Below are some of my <a href="http://www.davedalimocon.com" >projects</a> :</p>
+<p> Feel free to explore some of my <a href="http://www.davedalimocon.com" >projects</a> :</p>
 
