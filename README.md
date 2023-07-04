@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I code with:</h3>
+<h3 align="left">I code with :</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">Feel free to contact me:</p>
+<p align="left">Feel free to contact me :</p>
 
 ###
 
@@ -91,5 +91,5 @@
 
 ###
 
-<p> Below are some of my <a href="http://www.davedalimocon.com" >projects</a>:</p>
+<p> Below are some of my <a href="http://www.davedalimocon.com" >projects</a> :</p>
 
