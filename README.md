@@ -78,6 +78,7 @@
 ###
 
 <p align="left">Don't hesitate to contact me :</p>
+Email: davedalimocon@gmail.com
 
 ###
 
