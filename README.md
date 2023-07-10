@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-<p> Hello, I can build web app from scratch to deployment. I can actually do full-stack web development. However, I am much more inclined to front end. I got the eye for design and problem solving skills to get the job done. </p>
+<p> Hello, I can build web app from scratch to deployment. I can actually do full-stack web development.Before, my forte is Java/Spring back end development. However, I am now more inclined to front end. Rest assured that I got the eye for design and problem solving skills to get the job done. </p>
 
 
 ###
