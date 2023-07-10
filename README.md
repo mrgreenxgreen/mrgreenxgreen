@@ -1,14 +1,14 @@
-<h1 align="left">Hey! 👋 I'm Dave D.,a web dev.</h1>
+<h1 align="left">Front End Developer</h1>
 
 ###
 
 <br clear="both">
-
+<p> Hello, I can actually do full stack development. However, I am much more inclined to front end. I got the eye for design and problem solving skills. </p>
 
 
 ###
 
-<h3 align="left">I code with :</h3>
+<h3 align="left">Current tech stack :</h3>
 
 ###
 
