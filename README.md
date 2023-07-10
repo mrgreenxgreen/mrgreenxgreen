@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-<p> Javascript, ReactJS, Redux, MongoDB, NodeJS, Spring, Java, Git, VSCode, Vim, Linux(Oracle), AWS </p>
+<p> Javascript, ReactJS, Redux, MongoDB, MySQL, NodeJS, Spring, Java, Git, VSCode, Vim, Linux(Oracle), AWS </p>
 
 ###
 
