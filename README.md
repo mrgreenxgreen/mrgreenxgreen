@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-<p> Hello, I can actually do full stack development. However, I am much more inclined to front end. I got the eye for design and problem solving skills to get the job done. </p>
+<p> Hello, I can actually do full stack web development. However, I am much more inclined to front end. I got the eye for design and problem solving skills to get the job done. </p>
 
 
 ###
