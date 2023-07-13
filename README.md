@@ -3,7 +3,9 @@
 ###
 
 <br clear="both">
-<p> Hello, I can build web app from scratch to deployment. I can actually do full-stack web development.Before, my forte is Java/Spring back end development. However, I am now more inclined to front end. Rest assured that I got the eye for design and problem solving skills to get the job done. </p>
+<p> Hi! Welcome to my Github account.
+
+I can help you build web app from scratch to deployment. I can actually do full-stack web development.Before, my forte is Java/Spring back end development. However, I am now more inclined to front end. Rest assured that I got the eye for design and problem solving skills to get the job done. </p>
 
 
 ###
