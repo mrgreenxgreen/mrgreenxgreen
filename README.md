@@ -80,7 +80,7 @@ I can help you build web app from scratch to deployment. I can actually do full-
 ###
 
 <p align="left">Don't hesitate to contact me :</p>
-davedalimocon@gmail.com
+romeodavedalimocon@gmail.com
 
 ###
 
