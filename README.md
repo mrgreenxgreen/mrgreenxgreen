@@ -52,10 +52,7 @@ I can help you build web app from scratch to deployment. I can actually do full-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -70,7 +67,7 @@ I can help you build web app from scratch to deployment. I can actually do full-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
-  <p>TypeScript, Jest, NextJS, NestJS, GraphQL, PostgreSQL,WebPack, Kafka, Docker, Kubernetes, Jenkins</p>
+  <p>TypeScript, Jest,  GraphQL, PostgreSQL,WebPack, Kafka, Docker, Kubernetes, Jenkins</p>
 ###
 
 <div align="center">
