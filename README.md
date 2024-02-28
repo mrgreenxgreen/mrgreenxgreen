@@ -41,7 +41,7 @@ I can help you build web app from scratch to deployment. I can actually do full-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-<p> Javascript, ReactJS, Redux, MongoDB, MySQL, NodeJS, Spring (Boot, Data, Security), Java, Git, VSCode, Vim, Linux(Debian / Fedora based distro), AWS(S3, Ec2, Gateway API), C, PHP (OOP) </p>
+<p> TypeScript, Javascript, ReactJS, Redux, MongoDB, MySQL, NodeJS, Spring (Boot, Data, Security), Java, Git, VSCode, Vim, Linux(Debian / Fedora based distro), AWS(S3, Ec2, Gateway API), C, PHP (OOP) </p>
 
 ###
 
