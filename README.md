@@ -64,7 +64,7 @@ I can help you build web app from scratch to deployment. I can actually do full-
   <img width="12" />
 
 </div>
-  <p> GraphQL, PostgreSQL,WebPack, Kafka, Docker, Kubernetes, Jenkins</p>
+  <p> Kafka, Docker, Kubernetes, Jenkins</p>
 ###
 
 <div align="center">
