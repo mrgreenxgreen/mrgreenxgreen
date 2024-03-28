@@ -1,4 +1,4 @@
-<h1 align="left">Fullstack Developer</h1>
+<h1 align="left">React TypeScript Developer</h1>
 
 ###
 
