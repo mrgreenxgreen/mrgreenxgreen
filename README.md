@@ -45,23 +45,8 @@ I can help you build web app from scratch to deployment. I can actually do full-
 
 ###
 
-<h3 align="left">Currently learning :</h3>
 
-###
-
-<div align="left">
-  <img width="12" />
  
-
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-
-</div>
-  <p> Kafka, Docker, Kubernetes</p>
 ###
 
 <div align="center">
