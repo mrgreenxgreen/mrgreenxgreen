@@ -49,9 +49,7 @@ I can help you build web app from scratch to deployment. I can actually do full-
  
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mrgreenxgreen /count.svg?"  />
-</div>
+
 
 ###
 
